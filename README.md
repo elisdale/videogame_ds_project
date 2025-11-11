@@ -1,2 +1,3 @@
 # videogame_ds_project
-my project for data science video game planning
+Includes project proposal and loading of necessary datasets into Jupyter, wrangling of data, mean summarization, visualizations, and a suggested method 
+
